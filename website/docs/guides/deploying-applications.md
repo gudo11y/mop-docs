@@ -435,4 +435,3 @@ kubectl set resources deployment/my-application \
 
 - [Creating Dashboards](./creating-dashboards.md) for your application
 - [Configuring Alerts](./configuring-alerts.md) for your service
-- [Troubleshooting Guide](./troubleshooting.md) for common issues

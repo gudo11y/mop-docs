@@ -238,6 +238,5 @@ curl -X POST -H "Content-Type: application/json" \
 
 ## Next Steps
 
-- [Configuring Alerts](./configuring-alerts.md)
-- [Advanced PromQL](./advanced-promql.md)
-- [Dashboard Templates](./dashboard-templates.md)
+- [Configuring Alerts](./configuring-alerts.md) - Set up alerts based on your dashboard metrics
+- [Deploying Applications](./deploying-applications.md) - Deploy applications to monitor

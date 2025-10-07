@@ -349,6 +349,5 @@ slack_configs:
 
 ## Next Steps
 
-- [Creating Dashboards](./creating-dashboards.md)
-- [Alert Runbooks](./alert-runbooks.md)
-- [SLO Monitoring](./slo-monitoring.md)
+- [Creating Dashboards](./creating-dashboards.md) - Learn how to visualize your metrics
+- [Deploying Applications](./deploying-applications.md) - Deploy monitored applications

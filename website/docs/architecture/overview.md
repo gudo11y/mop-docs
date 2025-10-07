@@ -81,6 +81,4 @@ Application teams deploy monitored workloads:
 
 ## Next Steps
 
-- [Platform Components](./platform-components.md)
-- [Data Flow](./data-flow.md)
-- [Scalability](./scalability.md)
+See the [Components](../components/mop-core.md) section for detailed information about each MOP component.
